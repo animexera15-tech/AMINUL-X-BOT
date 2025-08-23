@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
+    "100092707489189",
     ""
   ],
   "whiteListMode": {
@@ -25,12 +25,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "AMINUL-SORDAR",
+  "OWNER": "AYAN",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "FACEBOOK": "https://www.facebook.com/br4nd.abir.your.next.bf.jan",
-  "prefix": "#",
+  "nickNameBot": "ANU-WIFE'S",
+  "FACEBOOK": "https://www.facebook.com/a.ya.n.618348",
+  "prefix": ",",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -41,7 +41,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "aminulsordar04@gmail.com",
+      "email": "raxrabbit@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
