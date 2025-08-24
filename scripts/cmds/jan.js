@@ -143,28 +143,28 @@ module.exports = {
 
         // If no question asked, reply randomly — and set up reply tracking
         const randomReplies = [
-          "হ্যাঁ 😀, আমি এখানে আছি",
+          "আমার বস আয়ান ভাবির সাথে Bsy..😌🫶🏻",
           "কেমন আছো?",
           "বলো জান কি করতে পারি তোমার জন্য",
           `তুমি বলেছো: "${body}"? কিউট!`,
-          "I love you 💝",
-          "ভালোবাসি তোমাকে 🤖",
+          "AYAN ke i love you bolo 💝",
+          "আয়ান কে ভালোবাসো🤖",
           "Hi, I'm messenger Bot, I can help you.?🤖",
           "Use callad to contact admin!",
           "Hi, Don't disturb 🤖 🚘 Now I'm going to Feni, Bangladesh..bye",
           "Hi, 🤖 I can help you~~~~",
-          "আমি এখন আমিনুল বসের সাথে বিজি আছি",
-          "আমাকে আমাকে না ডেকে আমার বসকে ডাকো এই নেও LINK :- https://www.facebook.com/100071880593545",
+          "আমি এখন আয়ান বসের সাথে বিজি আছি",
+          "আমাকে আমাকে না ডেকে আমার বসকে ডাকো এই নেও LINK :-https://m.me/a.ya.n.618348",
           "Hmmm sona 🖤 meye hoile kule aso ar sele hoile kule new 🫂😘",
           "Yah This Bot creator : PRINCE RID((A.R))     link => https://www.facebook.com/100071880593545",
-          "হা বলো, শুনছি আমি 🤸‍♂️🫂",
-          "Ato daktasen kn bujhlam na 😡",
-          "jan bal falaba,🙂",
+          "AYAN KE VALOBASHA DILE AMAKE PABA🫂",
+          "Ato daktasen kn dekhen na ami ayan er sathe bsy 😡",
+          "jan ayan boss ke cumma deo,🙂",
           "ask amr mon vlo nei dakben na🙂",
           "Hmm jan ummah😘😘",
-          "jang hanga korba 🙂🖤",
+          "jang ayan boss er sathe hanga korba 🙂🖤",
           "iss ato dako keno lojja lage to 🫦🙈",
-          "suna tomare amar valo lage,🙈😽"
+          "suna tomare amar valo lage i love u,🙈😽"
         ];
         const reply = randomReplies[Math.floor(Math.random() * randomReplies.length)];
         return api.sendMessage(reply, event.threadID, (err, info) => {
